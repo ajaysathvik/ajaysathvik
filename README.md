@@ -1,4 +1,4 @@
-# Hi, myself AJay sathvik
+# Hi, myself Ajay sathvik
 
 ## 💫 About Me:
 🔭 I’m currently working on flutter development<br>🌱 I’m currently learning html and css<br>⚡ Fun fact is that there is no fun fact
