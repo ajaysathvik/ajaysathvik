@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on go-lang <br>👯 I’m looking to collaborate on blockchain<br>🤝 I’m looking for help with web3 development<br>🌱 I’m currently learning go-lang
+🔭 I’m currently working on Rust <br>👯 I’m looking to collaborate on blockchain<br>🤝 I’m looking for help with web3 development<br>🌱 I’m currently learning solana
 
 
 # 💻 Tech Stack:
